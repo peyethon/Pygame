@@ -1,1 +1,1 @@
-# Simmy
+# Pygame
